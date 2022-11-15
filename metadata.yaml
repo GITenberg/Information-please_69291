@@ -1,0 +1,25 @@
+_repo: Information-please_69291
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Whiteside, Stanley
+    gutenberg_agent_id: '53026'
+    url: http://www.gutenberg.org/2009/agents/53026
+description: ''
+gutenberg_issued: '2022-11-04'
+identifiers:
+  gutenberg: '69291'
+language: en
+pgterms:marc905: 20220510122626whiteside
+pgterms:marc906: '1945'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: 'United States: Standard Magazines, Inc.,1945.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Information please
+url: http://www.gutenberg.org/ebooks/69291
